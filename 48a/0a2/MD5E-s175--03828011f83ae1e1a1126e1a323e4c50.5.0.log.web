@@ -1,0 +1,4 @@
+1791215837s 1 https://dandiarchive.s3.amazonaws.com/zarr/ba079eb2-3aa4-40e9-abc6-66cc0b5edb87/extensions/templates/median/4.5.0?versionId=2QKXzU4zaQJZlX.IBLb0htnWUuRe3vAi
+1791215837s 1 https://api.dandiarchive.org/api/zarr/ba079eb2-3aa4-40e9-abc6-66cc0b5edb87/files?prefix=extensions%2Ftemplates%2Fmedian%2F4.5.0&download=true
+1791215854s 1 https://dandiarchive.s3.amazonaws.com/zarr/ba079eb2-3aa4-40e9-abc6-66cc0b5edb87/extensions/templates/std/3.5.0?versionId=83fhWufEYQ5YbP9S4f5nLqLFTZv1e8LL
+1791215854s 1 https://api.dandiarchive.org/api/zarr/ba079eb2-3aa4-40e9-abc6-66cc0b5edb87/files?prefix=extensions%2Ftemplates%2Fstd%2F3.5.0&download=true
